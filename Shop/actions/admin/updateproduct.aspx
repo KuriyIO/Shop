@@ -1,0 +1,1 @@
+﻿<%@ Page validateRequest="false" Language="C#" CodeBehind="updateproduct.aspx.cs" Inherits="Shop.actions.admin.updateproduct" %>

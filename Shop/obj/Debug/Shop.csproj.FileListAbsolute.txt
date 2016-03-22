@@ -1,0 +1,20 @@
+D:\praktika\Shop\Shop\bin\Shop.dll.config
+D:\praktika\Shop\Shop\bin\Shop.dll
+D:\praktika\Shop\Shop\bin\Shop.pdb
+D:\praktika\Shop\Shop\obj\Debug\Shop.dll
+D:\praktika\Shop\Shop\obj\Debug\Shop.pdb
+D:\praktika\Shop\Shop\bin\EntityFramework.dll
+D:\praktika\Shop\Shop\bin\EntityFramework.SqlServer.dll
+D:\praktika\Shop\Shop\bin\EntityFramework.xml
+D:\praktika\Shop\Shop\bin\EntityFramework.SqlServer.xml
+D:\praktika\Shop\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+D:\Учеба\Практика 2015\Shop\Shop\bin\Shop.dll.config
+D:\Учеба\Практика 2015\Shop\Shop\bin\Shop.dll
+D:\Учеба\Практика 2015\Shop\Shop\bin\Shop.pdb
+D:\Учеба\Практика 2015\Shop\Shop\bin\EntityFramework.dll
+D:\Учеба\Практика 2015\Shop\Shop\bin\EntityFramework.SqlServer.dll
+D:\Учеба\Практика 2015\Shop\Shop\bin\EntityFramework.xml
+D:\Учеба\Практика 2015\Shop\Shop\bin\EntityFramework.SqlServer.xml
+D:\Учеба\Практика 2015\Shop\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+D:\Учеба\Практика 2015\Shop\Shop\obj\Debug\Shop.dll
+D:\Учеба\Практика 2015\Shop\Shop\obj\Debug\Shop.pdb
